@@ -30,10 +30,13 @@ Feel free to explore my repositories and contributions. I'm always eager to coll
 ## 📫 Contact Me
 
 - **Email:** [syed.subahani@gmail.com](mailto:syed.subahani@gmail.com)
+<!--
 - **LinkedIn:** [SyedSubahani](https://www.linkedin.com/in/syedsubahani)
 - **Twitter:** [@syedsubahani](https://twitter.com/syedsubahani)
 
-![Profile Footer](https://your-image-url.com/footer.png)
+-->
+
+
 
 ---
 
