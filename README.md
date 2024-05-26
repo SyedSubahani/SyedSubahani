@@ -7,6 +7,13 @@ Feel free to explore my repositories and contributions. I'm always eager to coll
 
 ## 🛠️ Skills
 
+### Programming Languages:
+- Python, C#, Javascript
+
+### Machine Learning & Data Science:
+- Machine Learning / Deep Learning: PyTorch 🔥, Tensorflow, Keras, Scikit-Learn 📊
+- Natural Language Processing & Natural Language Understanding: HuggingFace - Transformers, NLTK, SpaCy, Gensim, OpenAI, LangChain, Llama-Index 📝
+
 - **Programming Languages:** Python, C#, Javascript
 - **Machine Learning Frameworks:** TensorFlow, PyTorch
 - **Natural Language Processing:** NLP techniques, libraries (e.g., NLTK, spaCy)
@@ -14,6 +21,7 @@ Feel free to explore my repositories and contributions. I'm always eager to coll
 - **Databases:** SQL Server, Oracle
 - **Vector Database:** ChromaDB, FAISS, Pinecone ↗
 - **Business Intelligence:** SSIS, SSRS
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Tools & Platforms:** Visual Studio, Git, TFS
 
 
