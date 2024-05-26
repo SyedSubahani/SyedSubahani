@@ -20,10 +20,10 @@ Feel free to explore my repositories and contributions. I'm always eager to coll
 - **Machine Learning Frameworks:** TensorFlow, PyTorch
 - **Natural Language Processing:** NLP techniques, libraries (e.g., NLTK, spaCy)
 - **Web Development:** ASP.NET, ASP.NET MVC Core, REST API
-- **Databases:** SQL Server, Oracle
-- **Vector Database:** ChromaDB, FAISS, Pinecone ↗
 - **Business Intelligence:** SSIS, SSRS
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Databases:** SQL Server, Oracle
+- **Vector Databases:** ChromaDB, FAISS, Pinecone ↗
 - **Tools & Platforms:** Visual Studio, Git, TFS
 
 
