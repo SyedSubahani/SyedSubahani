@@ -6,13 +6,15 @@ I have extensive experience in ASP.NET, building scalable web applications, and 
 Feel free to explore my repositories and contributions. I'm always eager to collaborate on exciting Machine Learning and Generative AI projects and discuss innovative ideas!
 
 ## 🛠️ Skills
-
+<!--
 ### Programming Languages:
 - Python, C#, Javascript
 
 ### Machine Learning & Data Science:
 - Machine Learning / Deep Learning: PyTorch 🔥, Tensorflow, Keras, Scikit-Learn 📊
 - Natural Language Processing & Natural Language Understanding: HuggingFace - Transformers, NLTK, SpaCy, Gensim, OpenAI, LangChain, Llama-Index 📝
+
+-->
 
 - **Programming Languages:** Python, C#, Javascript
 - **Machine Learning Frameworks:** TensorFlow, PyTorch
