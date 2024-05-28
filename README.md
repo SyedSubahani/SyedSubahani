@@ -27,20 +27,17 @@ Feel free to explore my repositories and contributions. I'm always eager to coll
 - **Tools & Platforms:** Visual Studio, Git, TFS
 
 
-## 📫 Contact Me
+## 📫 You can also find me on
 
-- **Email:** [syed.subahani@gmail.com](mailto:syed.subahani@gmail.com)
-<!--
-- **LinkedIn:** [SyedSubahani](https://www.linkedin.com/in/syedsubahani)
-- **Twitter:** [@syedsubahani](https://twitter.com/syedsubahani)
+<div align="left">  
+  <a href="mailto:syed.subahani@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Syed.Subahani | Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syedsubahani/" rel="nofollow">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="SyedSubahani | LinkedIn"  />
+  </a>
+</div>
 
--->
-
-
-
----
-
-*Created with 💖 by [Syed Subahani](https://github.com/syedsubahani)*
 
 <!--
 **SyedSubahani/SyedSubahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,4 +52,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- **Email:** [syed.subahani@gmail.com](mailto:syed.subahani@gmail.com)
+- **LinkedIn:** [SyedSubahani](https://www.linkedin.com/in/syedsubahani)
+- **Twitter:** [@syedsubahani](https://twitter.com/syedsubahani)
+
+*Created with 💖 by [Syed Subahani](https://github.com/syedsubahani)*
+
 -->
