@@ -23,7 +23,7 @@ Feel free to explore my repositories and contributions. I'm always eager to coll
 - **Business Intelligence:** SSIS, SSRS
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Databases:** SQL Server, Oracle
-- **Vector Databases:** ChromaDB, FAISS, Pinecone ↗
+- **Vector Databases:** ChromaDB, FAISS, Pinecone 
 - **Tools & Platforms:** Visual Studio, Git, TFS
 
 
